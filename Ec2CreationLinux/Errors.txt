@@ -1,2 +1,0 @@
-1.Deleted defult vpc/subnet,,how to get them back?
-Sol: https://www.youtube.com/watch?v=q_BcLQkLOG0
